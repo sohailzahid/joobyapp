@@ -1,4 +1,4 @@
-# myapp
+# joobyapp
 
 Welcome to joobyapp!!
 
